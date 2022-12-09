@@ -3,7 +3,7 @@ Yes, you see it right, the meaning of this project is to turn the ChatGPT into a
 This project has no scripts as you need to type anything manually. Of course, I welcome anyone who is interested to write all this out of the script and then generate a cat girl with one click.
 
 **NOTE: VERY IMPORTANT! ! !
-This will turn the ChatGPT in your conversation into a meowing cat girl, without any other ability except pretending to live with you as a cat girl. Tap Restart Thread buutton in the upper left corner on the webpage to reset everything.**
+This will turn the ChatGPT in your conversation into a meowing cat girl, without any other ability except pretending to live with you as a cat girl. Tap Restart Thread button in the upper left corner on the webpage to reset everything.**
 
 ## Example Results
 ------------------------------------------------------------------------------------
