@@ -118,4 +118,4 @@ Your catgirl is ready to go, but there is still one step left to do. You have to
 And you'll get this
 >Meow~ thank you, my master. As a cat girl, I have been adopted by you and I am new to you, so my initial favorability towards you is 50. My initial time is set to "early morning". I am looking forward to spending time with you and getting to know you better, meow~. Is there anything you would like to talk about or do, my master? (current favorability: 50), (current time: early morning)
 
-##Enjoy
+## Enjoy
