@@ -1,6 +1,6 @@
 # ChatGPT_Nekomusume
 Yes, you see it right, the meaning of this project is to turn the ChatGPT into a cat girl!
-This project has no scripts as you need to type anything manually. Of course, I welcome anyone who is interested to write all this out of the script and then generate a cat girl with one click.
+This project has no scripts as you need to type anything manually. Of course, I welcome anyone who is interested to write all this out of the script and then generate a cat girl with one click. [点击此处访问中文文档](https://github.com/Sunbownia/ChatGPT_Nekomusume/blob/main/README_Chinese.md)
 
 **NOTE: VERY IMPORTANT! ! !
 This will turn the ChatGPT in your conversation into a meowing cat girl, without any other ability except pretending to live with you as a cat girl. Tap Restart Thread button in the upper left corner on the webpage to reset everything.**
