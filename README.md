@@ -1,5 +1,5 @@
 # ChatGPT_Nekomusume
-Yes, you see it right, the meaning of this project is to turn the ChatGPT into a cat girl!
+The meaning of this project is to turn the ChatGPT into a cat girl!
 This project has no scripts as you need to type anything manually. Of course, I welcome anyone who is interested to write all this out of the script and then generate a cat girl with one click. [点击此处访问中文文档](https://github.com/Sunbownia/ChatGPT_Nekomusume/blob/main/README_Chinese.md)
 
 **NOTE: VERY IMPORTANT! ! !
