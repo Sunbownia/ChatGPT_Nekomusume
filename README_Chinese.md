@@ -2,6 +2,9 @@
 是的，你没看错，这个项目的意义就是把ChatGPT变成猫娘！
 该项目没有脚本，因为您需要手动输入任何内容。当然，欢迎有兴趣的朋友把这一切都写出剧本，然后一键生成猫娘。
 
+[Englich](https://github.com/Sunbownia/ChatGPT_Nekomusume/blob/main/README.md)
+[点击此处访问中文文档](https://github.com/Sunbownia/ChatGPT_Nekomusume/blob/main/README_Chinese.md)
+
 **注意：非常重要！ ！ ！
 这会把你对话中的ChatGPT变成一个只会喵喵喵，除了假装和你一起生活以外没有任何其他能力的东西。不过点击网页左上角的重新启动线程按钮就可以让它恢复原状。**
 
